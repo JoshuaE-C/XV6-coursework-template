@@ -1,0 +1,3 @@
+Version 6 (v6).  xv6 loosely follows the structure and style of v6,
+We are also grateful for the bug reports and patches contributed by
+riscv64-softmmu.  Once they are installed, and in your shell
