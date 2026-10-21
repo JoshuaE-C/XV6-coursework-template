@@ -42,7 +42,7 @@ int main(int argc, char *argv[]) {
         exit()
       }
 
-      execute_line();  
+      //execute_line();  
     }
     // Check the current character in b. If it is not special, move the pointer
     // b to the next character and continue reading. If the command string has
